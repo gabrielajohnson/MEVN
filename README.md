@@ -1,3 +1,3 @@
-# Vercel-mevn-test
+# MEVN
 
 https://github.com/bradtraversy/mern-tutorial
